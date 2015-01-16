@@ -1,3 +1,5 @@
+// Copyright (C) 2014
+
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
